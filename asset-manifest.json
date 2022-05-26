@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/resortbooker/static/css/main.70f2ce24.css",
+    "main.js": "/resortbooker/static/js/main.f7dda63c.js",
+    "index.html": "/resortbooker/index.html",
+    "main.70f2ce24.css.map": "/resortbooker/static/css/main.70f2ce24.css.map",
+    "main.f7dda63c.js.map": "/resortbooker/static/js/main.f7dda63c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70f2ce24.css",
+    "static/js/main.f7dda63c.js"
+  ]
+}
