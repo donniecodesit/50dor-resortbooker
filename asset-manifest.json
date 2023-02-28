@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/resortbooker/static/css/main.70f2ce24.css",
-    "main.js": "/resortbooker/static/js/main.f7dda63c.js",
-    "index.html": "/resortbooker/index.html",
-    "main.70f2ce24.css.map": "/resortbooker/static/css/main.70f2ce24.css.map",
-    "main.f7dda63c.js.map": "/resortbooker/static/js/main.f7dda63c.js.map"
+    "main.css": "/50dor-resortbooker/static/css/main.70f2ce24.css",
+    "main.js": "/50dor-resortbooker/static/js/main.f7dda63c.js",
+    "index.html": "/50dor-resortbooker/index.html",
+    "main.70f2ce24.css.map": "/50dor-resortbooker/static/css/main.70f2ce24.css.map",
+    "main.f7dda63c.js.map": "/50dor-resortbooker/static/js/main.f7dda63c.js.map"
   },
   "entrypoints": [
     "static/css/main.70f2ce24.css",
