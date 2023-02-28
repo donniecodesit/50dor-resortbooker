@@ -1,5 +1,5 @@
-## About This App 
-This is a React Resort Booker Mock Application built with React during Day 20 of a 50 Days of React Udemy Course.
+## About This App
+React project made during Day 20 of "50 Days of React" by Sufa Digital Media on Udemy.
 It is an application that allows you to plan and book a room at a resort, and dynamically prices it based on the time, length, and number of occupants.
 
 ## How To Install & Run
